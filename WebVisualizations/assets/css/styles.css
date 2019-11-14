@@ -1,0 +1,192 @@
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Positioning */
+  margin-bottom: 150px;
+
+  /* Typography */
+  font-family:  Helvetica, sans-serif;
+
+
+  /* Visual */
+  background-color:   #f8f7f4;
+
+}
+
+footer{
+  background-color: lightgray;
+  position: absolute;
+  bottom: 0;
+  height: 25px;
+  width: 100%;
+
+}
+
+.text-center-costom {
+  background-color: #808000;
+  position: absolute;
+  bottom: 25px;
+  height: 5px;
+  width: 100%;
+
+}
+
+#box{
+  outline-width: 10px;
+}
+
+h1 {
+    color:  #808000;
+    font-size: 38px;
+    font-weight: thin;
+    align-items: center;
+}
+
+img {
+ /* padding-top: 5px;*/
+  padding-top:5px;
+  padding-bottom:5px;
+  padding-right: 20px;
+  width: 380px;
+}
+
+#sidebar{
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-left: 5px;
+  width: 150px;
+}
+
+
+#sidebar_box{
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-left: 5px;
+  width: 150px;
+  outline-style: solid;
+  outline-color: #808000;
+  outline-width: 1px;
+}
+
+
+#sidebar:hover {
+    opacity: .8;
+}
+
+#big{
+  padding-bottom: 40px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-left: 5px;
+  width: 420px;
+}
+
+#big_2{
+  width: 580px;
+  padding-bottom: 20px;
+}
+
+
+#big:hover {
+    opacity: .8;
+}
+
+
+
+
+.container_bkg {
+  background-color: white;
+ 
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 25px;
+
+ }
+
+
+
+ .container {
+
+  padding-left: 0px;
+  padding-right: 0px;
+  align-content: center;
+
+ }
+
+.navbar-default {
+  background-color:lightgray;
+  font-family: Helvetica;
+  padding-left: 40px;
+  padding-right: 40px;
+
+
+ }
+
+.navbar-default .navbar-brand {
+    color: black;
+    background-color:white;
+    border-radius: 3px;
+    padding: 0px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    font-weight: bold;
+    font-size: 33px;
+
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #2F4F4F;
+    text-shadow: -2px -2px 0px lightgray;
+}
+
+.nav-link_sml {
+  font-size: 18px;
+ }
+
+
+.table{
+  font-size:15px;
+}
+
+
+.hoverTable{
+    width:100%; 
+    border-collapse:collapse; 
+  }
+
+  .hoverTable td:hover{
+    background-color: #EBF6F9;
+
+  }
+
+    .hoverTable tr:hover {
+          background-color: #F5FBFE;
+    }
+
+
+
+.navbar-default .nav-link{
+    color: black;
+    font-size: 28px;
+}
+
+.navbar-default .nav-link:hover,
+.navbar-default .nav-link:focus {
+    color:    #2F4F4F;
+
+}
+
+
+
+
+
